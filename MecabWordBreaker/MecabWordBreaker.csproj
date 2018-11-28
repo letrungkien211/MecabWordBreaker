@@ -7,8 +7,9 @@
     <Authors>letrungkien211</Authors>
     <Description>Mecab word breaker wrapper</Description>
     <IncludeSymbols>True</IncludeSymbols>
-    <RepositoryUrl>https://msasg.visualstudio.com/Rinna/_git/RinnaCommon?path=/MecabWordBreaker&amp;version=GBmaster</RepositoryUrl>
+    <RepositoryUrl>https://github.com/letrungkien211/MecabWordBreaker</RepositoryUrl>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PackageTags>mecab, wordbreaker, japanese</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
