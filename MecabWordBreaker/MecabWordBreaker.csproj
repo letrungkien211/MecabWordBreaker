@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net45;net452;net461</TargetFrameworks>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.0</Version>
+    <Authors>letrungkien211</Authors>
+    <Description>Mecab word breaker wrapper</Description>
+    <IncludeSymbols>True</IncludeSymbols>
+    <RepositoryUrl>https://msasg.visualstudio.com/Rinna/_git/RinnaCommon?path=/MecabWordBreaker&amp;version=GBmaster</RepositoryUrl>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NMeCab" Version="0.6.4" />
+  </ItemGroup>
+
+</Project>
